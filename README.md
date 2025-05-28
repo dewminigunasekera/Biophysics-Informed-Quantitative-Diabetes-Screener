@@ -74,3 +74,11 @@ Confusion matrix and classification reports included in the notebook.
    ```bash
    git clone https://github.com/yourusername/biqds-diabetes-screener
    cd biqds-diabetes-screener
+
+   Run the notebook:
+BiqDS.ipynb
+
+Dataset required:
+Place diabetes.csv (PIMA dataset) in the same directory.
+
+
